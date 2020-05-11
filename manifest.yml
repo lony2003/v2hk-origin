@@ -1,8 +1,7 @@
 ---
 applications:
- - buildpack: https://github.com/cloudfoundry/go-buildpack.git
-   memory: 128M
-   disk_quota: 64M
+ - buildpacks: 
+  - https://github.com/cloudfoundry/go-buildpack.git
    env:
      GOVERSION: go1.12
      GOPACKAGENAME: github.com/xuiv/v2ray-heroku
