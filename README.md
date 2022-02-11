@@ -1,4 +1,7 @@
 # v2ray-heroku
+
+## 推荐使用v2hk-refresh, 版本更新，速度更快（可能吧）https://github.com/fangkehou-team/v2hk-refresh
+
 > 部署
 # 点击 [![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/zhangke200377/v2ray-heroku)，[一键部署到heroku](https://heroku.com/deploy?template=https://github.com/xuiv/v2ray-heroku)
 
